@@ -31,7 +31,7 @@ module.exports = async function (context, req) {
                     }  
                 else {  var extend_code       = null;
                         var partner_status    = null;
-                        var cod_doisoat       = null};  
+                        var cod_doisoat       = null};   
                     }
     else {var extend_code       = null;
           var partner_status    = null;
